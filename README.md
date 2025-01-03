@@ -26,7 +26,7 @@ This project analyzes the sales performance of a coffee shop, identifying key tr
 ## Main outcomes of the analysis:  
 -All stores show consistent growth, with June revenues peaking around €55,000–€57,000.  
 -Sales are highest between 8–10 AM across all locations.  
--Coffee leads overall, with Barista Espresso and Brewed Chai Tea as top performers.  
+-Coffee leads overall, with Barista Espresso as top performen in the Hell's Kitchen and Lower Manhattan stores and Brewed Chai Tea in the Astoria store.  
 -Monday is the busiest day for Lower Manhattan store.  
 
 ## Tools Used:
